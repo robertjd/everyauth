@@ -29,7 +29,7 @@
     "restler": "0.2.1",
     "request": ">=2.2.0",
     "connect": ">=1 <2",
-    "openid": ">=0.2.0",
+    "openid": "=0.1.8",
     "xml2js": ">=0.1.7"
   },
   "devDependencies": {
